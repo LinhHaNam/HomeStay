@@ -1,0 +1,54 @@
+﻿@page
+@model HomestayWeb.Pages.Discounts.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link href="~/css/edit.css" rel="stylesheet" />
+<h1>Chương trình giảm giá</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-outline-dark">Tạo mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Discount[0].Discount1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discount[0].DateStart)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discount[0].DateEnd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discount[0].Homstay)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Discount) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Discount1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateStart)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateEnd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Homstay.HomestayName)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.DiscountId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.DiscountId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.DiscountId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

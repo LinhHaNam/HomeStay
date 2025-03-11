@@ -1,0 +1,99 @@
+﻿@page
+@model HomestayWeb.Pages.Orders.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+<link href="~/css/edit.css" rel="stylesheet" />
+<div class="d-flex justify-content-between">
+    <h1>Chi tiết</h1>
+    <h2 style="align-items:center"><a asp-page="./Index" class="btn-close"></a></h2>
+</div>
+
+
+<div>
+    <h4>Customer's information</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.User.Fullname)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.User.Fullname)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.User.Username)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.User.Username)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.User.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.User.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.User.Gender)
+        </dt>
+        <dd class="col-sm-10">
+            @(Model.Order.User.Gender == true ? "Male" : "Female")
+        </dd>
+    </dl>
+
+    <h4 class="mt-5">Order's information</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.Homestay.HomestayName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.Homestay.HomestayName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.Homestay.Address)
+        </dt>
+        <dd class="col-sm-10">
+            @($"{Model.Order.Homestay.Address} - {Model.Order.Homestay.Commune} - {Model.Order.Homestay.District} - {Model.Order.Homestay.City} - {Model.Order.Homestay.Country}")
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.OrderDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.OrderDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.OrderDetails.FirstOrDefault().FromDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.OrderDetails.FirstOrDefault().FromDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.OrderDetails.FirstOrDefault().EndDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.OrderDetails.FirstOrDefault().EndDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.Status)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.Status)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.Homestay.Price)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.Homestay.Price)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.OrderDetails.FirstOrDefault().PriceWhenSell)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.OrderDetails.FirstOrDefault().PriceWhenSell)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>

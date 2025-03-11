@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HomestayWeb
+build_property.RootNamespace = HomestayWeb
+build_property.ProjectDir = D:\Ky 7\prn222\code\Project_Homestay-main\Project_Homestay-main\HomestayWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Ky 7\prn222\code\Project_Homestay-main\Project_Homestay-main\HomestayWeb
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Discounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzY291bnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Discounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzY291bnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Discounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzY291bnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Discounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzY291bnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Discounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzY291bnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/ForgotPassword/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yZ290UGFzc3dvcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/HomeStays/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVN0YXlzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/HomeStays/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVN0YXlzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/HomeStays/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVN0YXlzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/HomeStays/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVN0YXlzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/HomeStays/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVN0YXlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Logout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/MyOrders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/MyOrders/Vote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlcnNcVm90ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky 7/prn222/code/Project_Homestay-main/Project_Homestay-main/HomestayWeb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j1keky4npy

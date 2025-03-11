@@ -1,0 +1,48 @@
+﻿@page
+@model HomestayWeb.Pages.Discounts.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Discount</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group mt-3">
+                <label asp-for="Discount.HomstayId" class="control-label"></label>
+                <select asp-for="Discount.HomstayId" class="form-control" asp-items="ViewBag.HomestayName"></select>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="Discount.Discount1" class="control-label"></label>
+                <input asp-for="Discount.Discount1" class="form-control" />
+                <span asp-validation-for="Discount.Discount1" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="Discount.DateStart" class="control-label"></label>
+                <input asp-for="Discount.DateStart" class="form-control" />
+                <span asp-validation-for="Discount.DateStart" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="Discount.DateEnd" class="control-label"></label>
+                <input asp-for="Discount.DateEnd" class="form-control" />
+                <span asp-validation-for="Discount.DateEnd" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="mt-3">
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

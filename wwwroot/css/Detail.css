@@ -1,0 +1,28 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Quicksand');
+body {
+    background-color: #d5e3f7 !important;
+    font-family: 'Quicksand', sans-serif !important;
+    color: #171714;
+}
+.form-book {
+    padding: 50px;
+    box-shadow: 1px 1px 1px 5px #AAA;
+    border-radius: 25px;
+   .btn_order
+{
+    width: 100%;
+    background-color: #e87c46;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 25px;
+}
+}
+.carousel-inner img {
+    max-height: 600px; /* Điều chỉnh giới hạn chiều cao tại đây */
+    width: auto; /* Đảm bảo tỷ lệ khung hình không bị biến đổi */
+}
+.action-admin a{
+    padding :20px;
+    border-radius:30px;
+}

@@ -1,0 +1,103 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+
+body {
+
+    font-family: 'Quicksand', sans-serif;
+}
+input::placeholder {
+    color: white !important;
+}
+.container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+}
+.box{
+    width: 700px;
+    background:transparent;
+    border: 2px solid white  ;
+    border-radius: 25px;
+    backdrop-filter: blur(15px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login {
+    margin: 50px 20px;
+}
+h2{
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+}
+.form-group{
+    color: white;
+    margin: 30px 10px;
+    border-bottom:2px solid white ;
+     
+}
+
+.form-group input{
+    width: 500px;
+    height: 30px;
+    background: transparent;
+    border: none;
+    font-size: large;
+}
+input:focus{
+    background-color: inherit;
+    font-size: large;
+}
+button{
+    width: 100%;
+    height: 40px;
+    border-radius: 40px;
+    background-color: aliceblue;
+    border: none;
+    cursor: pointer;
+    font-size: large;
+    font-weight: 600 ;
+    margin: 20px 0;
+    border-radius:20px !important;
+}
+
+#login-message.success{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Tahoma';
+    color: blue;
+    background-color: aliceblue;
+}
+#login-message.fail{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Tahoma';
+    color: red;
+    background-color: aliceblue;
+    display: block;
+}
+
+.back-video {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+@media(min-aspect-ratio: 16/89){
+    .back-video{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media(max-aspect-ratio: 16/89) {
+    .back-video {
+        width: auto;
+        height: 100%;
+    }
+}

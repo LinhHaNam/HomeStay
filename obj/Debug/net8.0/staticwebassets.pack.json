@@ -1,0 +1,637 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomestayWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HomestayWeb.mtv2x8u802.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\02f2a6bb-7b24-4c39-8b0b-76174f1dadac_homestay4.jpg",
+      "PackagePath": "staticwebassets\\Images\\02f2a6bb-7b24-4c39-8b0b-76174f1dadac_homestay4.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\04b25092-4220-4837-96ee-767e6fd1e22f_421280300.jpg",
+      "PackagePath": "staticwebassets\\Images\\04b25092-4220-4837-96ee-767e6fd1e22f_421280300.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\04b55d80-d97d-4422-8dc3-aa2029fe7167_Screenshot 2023-06-01 143618.png",
+      "PackagePath": "staticwebassets\\Images\\04b55d80-d97d-4422-8dc3-aa2029fe7167_Screenshot 2023-06-01 143618.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\058e640f-0801-4bd4-bc58-90e3e051c7d7_Image 20.png",
+      "PackagePath": "staticwebassets\\Images\\058e640f-0801-4bd4-bc58-90e3e051c7d7_Image 20.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\0607ad42-a6e5-4e45-be5f-5f9d106c6c36_431171124.jpg",
+      "PackagePath": "staticwebassets\\Images\\0607ad42-a6e5-4e45-be5f-5f9d106c6c36_431171124.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\066aca37-187f-4a3c-aaea-7448e798ea7e_273094126.jpg",
+      "PackagePath": "staticwebassets\\Images\\066aca37-187f-4a3c-aaea-7448e798ea7e_273094126.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\0cddf901-0be4-4e4c-9d70-8264ec1464aa_379465345.jpg",
+      "PackagePath": "staticwebassets\\Images\\0cddf901-0be4-4e4c-9d70-8264ec1464aa_379465345.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\0e7d0771-8e88-4574-a461-bda0c3d2286f_dinhson.png",
+      "PackagePath": "staticwebassets\\Images\\0e7d0771-8e88-4574-a461-bda0c3d2286f_dinhson.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\19721075-c684-4760-90a0-35f7968aeddd_product2.png",
+      "PackagePath": "staticwebassets\\Images\\19721075-c684-4760-90a0-35f7968aeddd_product2.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\1a04ee63-efcd-4790-b9ee-96042eae24dc_homestay5.jpg",
+      "PackagePath": "staticwebassets\\Images\\1a04ee63-efcd-4790-b9ee-96042eae24dc_homestay5.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\1a3ba4c3-89f2-4e70-af41-9385792ba38b_hat.png",
+      "PackagePath": "staticwebassets\\Images\\1a3ba4c3-89f2-4e70-af41-9385792ba38b_hat.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\1b5cc1b6-643c-4d94-9340-c6ea154c8ed0_Screenshot 2023-05-24 000637.png",
+      "PackagePath": "staticwebassets\\Images\\1b5cc1b6-643c-4d94-9340-c6ea154c8ed0_Screenshot 2023-05-24 000637.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\1faa4cb6-1199-4a6f-8ed5-3672f12e2d4c_295292087.jpg",
+      "PackagePath": "staticwebassets\\Images\\1faa4cb6-1199-4a6f-8ed5-3672f12e2d4c_295292087.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\29726a6f-f640-4a3f-b4db-5947f85bd023_380069767.jpg",
+      "PackagePath": "staticwebassets\\Images\\29726a6f-f640-4a3f-b4db-5947f85bd023_380069767.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\2c628bf5-3a10-488c-bc0f-e58374d658f0_homestay2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2c628bf5-3a10-488c-bc0f-e58374d658f0_homestay2.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\31111151-abeb-43ce-ad9a-3f3a0fb5ce0a_246018090.jpg",
+      "PackagePath": "staticwebassets\\Images\\31111151-abeb-43ce-ad9a-3f3a0fb5ce0a_246018090.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\31d4d043-43c9-40e1-a742-ff24f12f2296_379471721.jpg",
+      "PackagePath": "staticwebassets\\Images\\31d4d043-43c9-40e1-a742-ff24f12f2296_379471721.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\399efa13-3099-454c-92b2-890cf698158a_421280300.jpg",
+      "PackagePath": "staticwebassets\\Images\\399efa13-3099-454c-92b2-890cf698158a_421280300.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\3c230607-a6d6-4d10-8e5e-af84a86154bb_351307798.jpg",
+      "PackagePath": "staticwebassets\\Images\\3c230607-a6d6-4d10-8e5e-af84a86154bb_351307798.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\4448a28d-7a13-4697-a38f-8698aad8bf1c_389380047.jpg",
+      "PackagePath": "staticwebassets\\Images\\4448a28d-7a13-4697-a38f-8698aad8bf1c_389380047.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\4625cac4-4586-40c8-b266-cfdebb65a50e_326154000.jpg",
+      "PackagePath": "staticwebassets\\Images\\4625cac4-4586-40c8-b266-cfdebb65a50e_326154000.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\47597bc9-6f4f-49a2-aa5a-d0c95bf3c165_379471705.jpg",
+      "PackagePath": "staticwebassets\\Images\\47597bc9-6f4f-49a2-aa5a-d0c95bf3c165_379471705.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\4950b026-debb-415c-a7ce-41b928af38ed_dinhson.png",
+      "PackagePath": "staticwebassets\\Images\\4950b026-debb-415c-a7ce-41b928af38ed_dinhson.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\4fcd52cc-95b9-451b-86d8-2ae6e6b2136d_407748381.jpg",
+      "PackagePath": "staticwebassets\\Images\\4fcd52cc-95b9-451b-86d8-2ae6e6b2136d_407748381.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\51ca60d0-dcd5-4af4-aea2-019f5f3d25d1_product01.png",
+      "PackagePath": "staticwebassets\\Images\\51ca60d0-dcd5-4af4-aea2-019f5f3d25d1_product01.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\52bb9792-577a-4d50-82fa-8353f5bc2b38_homestay1.jpg",
+      "PackagePath": "staticwebassets\\Images\\52bb9792-577a-4d50-82fa-8353f5bc2b38_homestay1.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\535d5fa9-e131-41de-b4a2-c42160516082_276754574.jpg",
+      "PackagePath": "staticwebassets\\Images\\535d5fa9-e131-41de-b4a2-c42160516082_276754574.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\578608e3-edad-4947-884a-ee43d70ec432_croptop.png",
+      "PackagePath": "staticwebassets\\Images\\578608e3-edad-4947-884a-ee43d70ec432_croptop.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\58c7f789-7571-415a-8584-da845d8e9891_Screenshot 2023-06-09 095402.png",
+      "PackagePath": "staticwebassets\\Images\\58c7f789-7571-415a-8584-da845d8e9891_Screenshot 2023-06-09 095402.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\5b3c151e-8d10-444d-9744-62cf7bafd1f3_489147536.jpg",
+      "PackagePath": "staticwebassets\\Images\\5b3c151e-8d10-444d-9744-62cf7bafd1f3_489147536.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\60842a7b-6a62-48c7-8fbe-498b57cffcb9_441288310.jpg",
+      "PackagePath": "staticwebassets\\Images\\60842a7b-6a62-48c7-8fbe-498b57cffcb9_441288310.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\6375f557-3f7b-4456-9ba1-8fc6a66f62d8_410273140.jpg",
+      "PackagePath": "staticwebassets\\Images\\6375f557-3f7b-4456-9ba1-8fc6a66f62d8_410273140.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\6a128de9-42cb-42d5-ab79-287ea05f9885_homestay4.jpg",
+      "PackagePath": "staticwebassets\\Images\\6a128de9-42cb-42d5-ab79-287ea05f9885_homestay4.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\6da0188a-fdd5-4ca3-b732-446ccc294337_dinhson.png",
+      "PackagePath": "staticwebassets\\Images\\6da0188a-fdd5-4ca3-b732-446ccc294337_dinhson.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\6ea1284d-d450-4ea8-8da9-dcb1d8417b9a_logo_Chua.png",
+      "PackagePath": "staticwebassets\\Images\\6ea1284d-d450-4ea8-8da9-dcb1d8417b9a_logo_Chua.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\6fc64ffc-efa6-4be3-9965-c8214ea68b14_hat.png",
+      "PackagePath": "staticwebassets\\Images\\6fc64ffc-efa6-4be3-9965-c8214ea68b14_hat.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\74fd11d9-55cf-45d1-baf4-15d7195205b7_236726955.jpg",
+      "PackagePath": "staticwebassets\\Images\\74fd11d9-55cf-45d1-baf4-15d7195205b7_236726955.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\7b0709c7-780b-4b74-b4cb-917132880530_homestay4.jpg",
+      "PackagePath": "staticwebassets\\Images\\7b0709c7-780b-4b74-b4cb-917132880530_homestay4.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\7e226879-0867-4713-8146-eae1de4a32e4_500400913.jpg",
+      "PackagePath": "staticwebassets\\Images\\7e226879-0867-4713-8146-eae1de4a32e4_500400913.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\8319931b-a303-4d8f-b748-b1588e12ad12_homestay2.jpg",
+      "PackagePath": "staticwebassets\\Images\\8319931b-a303-4d8f-b748-b1588e12ad12_homestay2.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\84a7e271-e2e0-4d68-aca0-9c6ab728095a_homestay3.jpg",
+      "PackagePath": "staticwebassets\\Images\\84a7e271-e2e0-4d68-aca0-9c6ab728095a_homestay3.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\8827dff0-7bfe-4d99-8554-942edd2aaa27_217060943.jpg",
+      "PackagePath": "staticwebassets\\Images\\8827dff0-7bfe-4d99-8554-942edd2aaa27_217060943.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\8fc565b6-a537-4e2b-a820-5398ee91137f_414066936.jpg",
+      "PackagePath": "staticwebassets\\Images\\8fc565b6-a537-4e2b-a820-5398ee91137f_414066936.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\913ad575-e611-4b54-8bdd-9d1c45812685_homestay5.jpg",
+      "PackagePath": "staticwebassets\\Images\\913ad575-e611-4b54-8bdd-9d1c45812685_homestay5.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\92678502-ffee-4503-9923-2b32bd28985e_homestay2.jpg",
+      "PackagePath": "staticwebassets\\Images\\92678502-ffee-4503-9923-2b32bd28985e_homestay2.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\9401f721-8303-4c1b-9a73-9bb52bf5b40a_252484288.jpg",
+      "PackagePath": "staticwebassets\\Images\\9401f721-8303-4c1b-9a73-9bb52bf5b40a_252484288.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\944006cb-cdd6-4a7b-9db0-f1257ab68025_homestay6.jpg",
+      "PackagePath": "staticwebassets\\Images\\944006cb-cdd6-4a7b-9db0-f1257ab68025_homestay6.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\97d5f925-7ec2-4a96-9015-08c59590a233_273094141.jpg",
+      "PackagePath": "staticwebassets\\Images\\97d5f925-7ec2-4a96-9015-08c59590a233_273094141.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\9fee7be6-2023-460c-883d-c41920649574_389380045.jpg",
+      "PackagePath": "staticwebassets\\Images\\9fee7be6-2023-460c-883d-c41920649574_389380045.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\a2bb669d-7b45-40bf-8296-3eccd56180d4_homestay5.jpg",
+      "PackagePath": "staticwebassets\\Images\\a2bb669d-7b45-40bf-8296-3eccd56180d4_homestay5.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\a810fea3-15a7-4f63-83a6-d357e88cf98a_Screenshot 2023-06-01 143618.png",
+      "PackagePath": "staticwebassets\\Images\\a810fea3-15a7-4f63-83a6-d357e88cf98a_Screenshot 2023-06-01 143618.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\a9aca00c-057c-413a-b772-ac507fe4466f_homestay1.jpg",
+      "PackagePath": "staticwebassets\\Images\\a9aca00c-057c-413a-b772-ac507fe4466f_homestay1.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\a9d9f5cb-4440-40b0-a4c4-d7ecf51a5a6f_431171124.jpg",
+      "PackagePath": "staticwebassets\\Images\\a9d9f5cb-4440-40b0-a4c4-d7ecf51a5a6f_431171124.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\ab841961-6f53-4f77-8280-d9ac4a124aab_homestay3.jpg",
+      "PackagePath": "staticwebassets\\Images\\ab841961-6f53-4f77-8280-d9ac4a124aab_homestay3.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\abce2446-7b21-4c1f-aba4-c2df1356d8b2_295292074.jpg",
+      "PackagePath": "staticwebassets\\Images\\abce2446-7b21-4c1f-aba4-c2df1356d8b2_295292074.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\b259ab31-6288-4749-863b-dd79dd87148d_489144157.jpg",
+      "PackagePath": "staticwebassets\\Images\\b259ab31-6288-4749-863b-dd79dd87148d_489144157.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\b7fa6ff1-e6ff-4a5d-ab64-4daa80898f68_273094152.jpg",
+      "PackagePath": "staticwebassets\\Images\\b7fa6ff1-e6ff-4a5d-ab64-4daa80898f68_273094152.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\b94e8a9c-f165-4e6a-86ff-61bf81f5a07d_homestay3.jpg",
+      "PackagePath": "staticwebassets\\Images\\b94e8a9c-f165-4e6a-86ff-61bf81f5a07d_homestay3.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\b9da38d4-b37b-4f75-a7c8-6d3620451501_homestay6.jpg",
+      "PackagePath": "staticwebassets\\Images\\b9da38d4-b37b-4f75-a7c8-6d3620451501_homestay6.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\bd479b14-4113-4893-995a-19653a78e853_500400913.jpg",
+      "PackagePath": "staticwebassets\\Images\\bd479b14-4113-4893-995a-19653a78e853_500400913.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\c1ade0fc-9f12-401e-9328-43414b0a8142_homestay1.jpg",
+      "PackagePath": "staticwebassets\\Images\\c1ade0fc-9f12-401e-9328-43414b0a8142_homestay1.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\c960af50-48b6-4069-bb19-513e19da85f1_product01.png",
+      "PackagePath": "staticwebassets\\Images\\c960af50-48b6-4069-bb19-513e19da85f1_product01.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\c969d1e5-8605-4201-b3fe-5f6ede153df3_product01.png",
+      "PackagePath": "staticwebassets\\Images\\c969d1e5-8605-4201-b3fe-5f6ede153df3_product01.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\cbe610f2-996f-4d10-b0f6-6ffec4d06aff_431171124.jpg",
+      "PackagePath": "staticwebassets\\Images\\cbe610f2-996f-4d10-b0f6-6ffec4d06aff_431171124.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\ce3870dc-4278-4ea6-aed4-00e9f9d1e436_421280300.jpg",
+      "PackagePath": "staticwebassets\\Images\\ce3870dc-4278-4ea6-aed4-00e9f9d1e436_421280300.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\d63c9c42-660e-43b0-9178-4afb6e7d1cc3_441288310.jpg",
+      "PackagePath": "staticwebassets\\Images\\d63c9c42-660e-43b0-9178-4afb6e7d1cc3_441288310.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\da780a8c-90b1-407d-ba62-1239f9239540_441288310.jpg",
+      "PackagePath": "staticwebassets\\Images\\da780a8c-90b1-407d-ba62-1239f9239540_441288310.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\db33dca4-fd9e-45dc-96e8-63d38447aa45_homestay6.jpg",
+      "PackagePath": "staticwebassets\\Images\\db33dca4-fd9e-45dc-96e8-63d38447aa45_homestay6.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\ddb00d1c-7440-44b0-858a-6d7d471de755_288133041.jpg",
+      "PackagePath": "staticwebassets\\Images\\ddb00d1c-7440-44b0-858a-6d7d471de755_288133041.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\e04c4880-5a79-43c8-8bc5-736ebe560f0b_489145475.jpg",
+      "PackagePath": "staticwebassets\\Images\\e04c4880-5a79-43c8-8bc5-736ebe560f0b_489145475.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\e3c18876-4ee5-4827-820b-8a2e9f7398e3_385413312.jpg",
+      "PackagePath": "staticwebassets\\Images\\e3c18876-4ee5-4827-820b-8a2e9f7398e3_385413312.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\e8b86e63-3b18-4a6c-9c65-dce0e46377ca_product01.png",
+      "PackagePath": "staticwebassets\\Images\\e8b86e63-3b18-4a6c-9c65-dce0e46377ca_product01.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\ec4d13cc-9143-4d0e-8a16-9d5712957a14_420901764.jpg",
+      "PackagePath": "staticwebassets\\Images\\ec4d13cc-9143-4d0e-8a16-9d5712957a14_420901764.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\ed47fa8e-6f19-40ae-b90f-148fe163885e_Screenshot 2023-05-24 000637.png",
+      "PackagePath": "staticwebassets\\Images\\ed47fa8e-6f19-40ae-b90f-148fe163885e_Screenshot 2023-05-24 000637.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\ed646f71-86ec-4468-b8ec-0fa693ab0df2_croptop.png",
+      "PackagePath": "staticwebassets\\Images\\ed646f71-86ec-4468-b8ec-0fa693ab0df2_croptop.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\f3d68e36-f1e7-4c42-8327-137cb93bbf18_homestay3.jpg",
+      "PackagePath": "staticwebassets\\Images\\f3d68e36-f1e7-4c42-8327-137cb93bbf18_homestay3.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\f5ddc7d3-e2fe-4211-b0ae-17bf679afa2f_product2.png",
+      "PackagePath": "staticwebassets\\Images\\f5ddc7d3-e2fe-4211-b0ae-17bf679afa2f_product2.png"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\f78a8a1d-2d3f-4a55-9ff9-56d3b72f0303_500400913.jpg",
+      "PackagePath": "staticwebassets\\Images\\f78a8a1d-2d3f-4a55-9ff9-56d3b72f0303_500400913.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\f8389230-8811-4d70-b0b1-c218ec419b62_homestay1.jpg",
+      "PackagePath": "staticwebassets\\Images\\f8389230-8811-4d70-b0b1-c218ec419b62_homestay1.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\f9fd4dbf-c3c7-4c88-9746-1afc5a528054_389380040.jpg",
+      "PackagePath": "staticwebassets\\Images\\f9fd4dbf-c3c7-4c88-9746-1afc5a528054_389380040.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\ff0b9cc3-e5e6-4c20-bac8-ea0726435bc6_homestay1.jpg",
+      "PackagePath": "staticwebassets\\Images\\ff0b9cc3-e5e6-4c20-bac8-ea0726435bc6_homestay1.jpg"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\mixkit-waves-coming-to-the-beach-5016.mp4",
+      "PackagePath": "staticwebassets\\Images\\mixkit-waves-coming-to-the-beach-5016.mp4"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\Images\\pexels-timo-volz-6528707 (2160p).mp4",
+      "PackagePath": "staticwebassets\\Images\\pexels-timo-volz-6528707 (2160p).mp4"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\css\\Cart.css",
+      "PackagePath": "staticwebassets\\css\\Cart.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\css\\Detail.css",
+      "PackagePath": "staticwebassets\\css\\Detail.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\css\\Edit.css",
+      "PackagePath": "staticwebassets\\css\\Edit.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\css\\Manager.css",
+      "PackagePath": "staticwebassets\\css\\Manager.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\js\\address.js",
+      "PackagePath": "staticwebassets\\js\\address.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HomestayWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HomestayWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HomestayWeb.props",
+      "PackagePath": "build\\HomestayWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HomestayWeb.props",
+      "PackagePath": "buildMultiTargeting\\HomestayWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HomestayWeb.props",
+      "PackagePath": "buildTransitive\\HomestayWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

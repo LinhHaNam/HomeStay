@@ -1,0 +1,62 @@
+﻿@page
+@model HomestayWeb.Pages.Login.IndexModel
+@{
+    Layout = null;
+}
+<link href="~/css/login.css" rel="stylesheet" />
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+<video autoplay loop muted plays-inline class="back-video">
+    <source src="~/Images/pexels-timo-volz-6528707 (2160p).mp4" />
+</video>
+
+<!-- Existing CSS and video background code remains same -->
+
+<div class="container">
+    <form method="post" class="box">
+        <div class="login">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <input type="text" class="form-control" asp-for="UserRequest.Username" placeholder="Tài khoản">
+                <span asp-validation-for="UserRequest.Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-control" asp-for="UserRequest.Password" placeholder="Mật Khẩu">
+                <span asp-validation-for="UserRequest.Password" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Đăng nhập</button>
+
+            <!-- Google login button with matching width -->
+            <div style="margin-top: 15px;">
+                <a class="btn btn-danger w-100" asp-page="/Login/Index" asp-page-handler="GoogleLogin">
+                    <i class="fab fa-google"></i> Đăng nhập bằng Google
+                </a>
+            </div>
+
+            <div style="font-size:larger">Chưa có tài khoản? <a asp-page="/Register/Index" style="color:#8f0471">Đăng ký ngay</a></div>
+            <div style="margin-top: 10px; font-size: larger;">
+                <a asp-page="/ForgotPassword/Index" style="color: #8f0471">Quên mật khẩu?</a>
+            </div>
+        </div>
+    </form>
+</div>
+
+<!-- Existing JavaScript code -->
+
+<script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const message = urlParams.get('message');
+    if (message) {
+        document.getElementById('notification').innerHTML = message
+        document.getElementById('notification').hidden = false
+    }
+
+    setTimeout(() => {
+        document.getElementById('notification').hidden = true
+    }, 5000)
+</script>
+
+
+

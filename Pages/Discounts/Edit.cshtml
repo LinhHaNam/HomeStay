@@ -1,0 +1,50 @@
+﻿@page
+@model HomestayWeb.Pages.Discounts.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Discount</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Discount.DiscountId" />
+            <div class="form-group">
+                <label asp-for="Discount.HomstayId" class="control-label"></label>
+                <select asp-for="Discount.HomstayId" class="form-control" asp-items="ViewBag.HomstayId"></select>
+                <span asp-validation-for="Discount.HomstayId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Discount.Discount1" class="control-label"></label>
+                <input asp-for="Discount.Discount1" class="form-control" />
+                <span asp-validation-for="Discount.Discount1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Discount.DateStart" class="control-label"></label>
+                <input asp-for="Discount.DateStart" class="form-control" />
+                <span asp-validation-for="Discount.DateStart" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Discount.DateEnd" class="control-label"></label>
+                <input asp-for="Discount.DateEnd" class="form-control" />
+                <span asp-validation-for="Discount.DateEnd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

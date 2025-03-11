@@ -1,0 +1,48 @@
+﻿@page
+@model HomestayWeb.Pages.ForgotPassword.IndexModel
+@{
+    Layout = null;
+}
+
+<link href="~/css/login.css" rel="stylesheet" />
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+<video autoplay loop muted plays-inline class="back-video">
+    <source src="~/Images/pexels-timo-volz-6528707 (2160p).mp4" />
+</video>
+
+
+<div class="container">
+    <form method="post" class="box">
+        <div class="login">
+            <div class="alert alert-warning" role="alert" hidden id="notification">
+                A simple warning alert—check it out!
+            </div>
+            <h2>Quên mật khẩu</h2>
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <input type="email" class="form-control" asp-for="UserRequest.Email" placeholder="Địa chỉ Email">
+                <span asp-validation-for="UserRequest.Email" class="text-danger"></span>
+            </div>
+            <button type="submit">Gửi yêu cầu</button>
+            <div style="font-size:larger">
+                <a asp-page="/Login/Index" style="color:#8f0471">Quay lại trang đăng nhập</a>
+            </div>
+        </div>
+    </form>
+</div>
+
+<script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const message = urlParams.get('message');
+    if (message) {
+        document.getElementById('notification').innerHTML = message
+        document.getElementById('notification').hidden = false
+    }
+
+    setTimeout(() => {
+        document.getElementById('notification').hidden = true
+    }, 5000)
+</script>

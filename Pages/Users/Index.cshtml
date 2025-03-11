@@ -1,0 +1,109 @@
+﻿@page
+@model HomestayWeb.Pages.Users.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link href="~/css/Manager.css" rel="stylesheet" />
+<link href="~/css/home.css" rel="stylesheet" />
+<h1>Danh sách người dùng</h1>
+
+<form class="form-inline search" method="post">
+  <input type="text" asp-for="SearchDto.SearchValue" placeholder="Tìm kiếm người dùng" />
+  <div class="form-group">
+        <select class="form-control" asp-for="SearchDto.Role">
+            <option value="ADMIN">ADMIN</option>
+            <option value="USER">USER</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <select class="form-control" asp-for="SearchDto.Status">
+            <option value="true">ACTIVE</option>
+            <option value="false">INACTIVE</option>
+        </select>
+    </div>
+  <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<p>
+    <a class="btn_action" asp-page="Create">Thêm người dùng</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Tên tài khoản
+            </th>
+            <th>
+               Email
+            </th>
+            <th>
+               Vai trò
+            </th>
+            <th>
+                Trạng thái
+            </th>
+            <th>
+               Tên đầy đủ
+            </th>
+            <th>
+                Giới tính
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.User) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Role)
+            </td>
+            <td>
+                @(item.Status ? "ACTIVE" : "INACTIVE")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fullname)
+            </td>
+            <td>
+                 @(item.Gender == true ? "Nam" : "Nữ")
+            </td>
+
+            <td>
+                <div style="margin-top:5px;">
+                      <a class="btn_action" asp-page="./Edit" asp-route-id="@item.UserId">Edit</a>
+                </div>
+                <div style="margin-top:5px;">
+                     <a class="btn_action" asp-page="./Details" asp-route-id="@item.UserId">Details</a>
+
+                </div>
+                <div style="margin-top:5px;">
+                     <a class="btn_action" style="color:orange" asp-page="./Delete" asp-route-id="@item.UserId">Delete</a>
+                </div>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@{
+    var prevDisabled = !Model.User.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.User.HasNextPage ? "disabled" : "";
+}
+
+<a asp-page="./Index"
+   asp-route-pageIndex="@(Model.User.PageIndex - 1)"
+   class="btn btn-primary @prevDisabled">
+    Previous
+</a>
+
+<a asp-page="./Index"
+   asp-route-pageIndex="@(Model.User.PageIndex + 1)"
+   class="btn btn-primary @nextDisabled">
+    Next
+</a>

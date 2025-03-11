@@ -1,0 +1,138 @@
+﻿@using System.Security.Claims;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - HomestayWeb</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/HomestayWeb.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="khung">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar navbar-dark bg-dark border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">CONTINENTAL HOMESTAY</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                   
+                        @{
+                            var user = Context.User;
+                            var isAdmin = user.HasClaim(c => c.Type == "Role" && c.Value == "ADMIN");
+                            var username = user.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+                        }
+                        @if (isAdmin)
+                        {
+                            <li class="nav-item">
+                                    <a class="nav-link navbar-brand" asp-area="" asp-page="/Users/Index" asp-route-pageIndex="1">Users</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link navbar-brand" asp-area="" asp-page="/HomeStays/Index">HomeStays</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link navbar-brand" asp-area="" asp-page="/Discounts/Index">Discounts</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link navbar-brand" asp-area="" asp-page="/Orders/Index">Orders</a>
+                            </li>
+                        }
+                    </ul>
+                </div>
+                <div>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <ul class="navbar-nav flex-grow-1">
+                            <li class="nav-item me-3">
+                                <a class="btn btn-outline-light" asp-page="/Profile/Index">@username</a>
+                            </li>
+                            @if(!isAdmin){
+                                <li class="nav-item me-3">
+                                    <a class="btn btn-outline-light" asp-page="/MyOrders/Index">Phòng đã đặt</a>
+                                </li>
+                            }
+                            <li class="nav-item me-3">
+                                <form method="post" asp-page="/Logout/Index">
+                                    <button type="submit" class="btn btn-outline-light">Đăng xuất</button>
+                                </form>
+                            </li>
+                        </ul>
+                    }
+                    else
+                    {
+                        <a class="btn btn-outline-light" asp-page="/Register/Index">Đăng ký</a>
+                        <a class="btn btn-outline-light" asp-page="/Login/Index">Đăng nhập</a>
+                    }
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main class="container">
+        <main role="main" class="pb-3">
+            <div class="alert alert-warning" role="alert" id="notification" hidden>
+                A simple warning alert—check it out!
+            </div>
+            @RenderBody()
+        </main>
+    </main>
+    <footer class="bg-dark text-white" style="padding: 25px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h4>Liên hệ:</h4>
+                    <p>Địa chỉ: 123 Mễ Trì Hà Nội</p>
+                    <p>Email: deptrai@homestaybooking.com</p>
+                    <p>Điện thoại: 0123-456-789</p>
+                </div>
+                <div class="col-md-4">
+                    <h4>Không ngừng vươn xa</h4>
+                    <h4>Nhưng ngừng khuyến mại</h4>
+                    <h4>Phục vụ tận tâm</h4>
+                    <h4>Giá cả hợp lý</h4>
+
+
+
+                 
+                </div>
+                <div class="col-md-4">
+                    <h4>Theo dõi chúng tôi</h4>
+                    <ul class="social-icons">
+                        <li><a href="#"><i class="fab fa-facebook">facebook</i></a></li>
+                        <li><a href="#"><i class="fab fa-twitter"></i>Tiktok</a></li>
+                        <li><a href="#"><i class="fab fa-instagram"></i>Instagram</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <script>
+        var connection = new signalR.HubConnectionBuilder().withUrl("/clientHub").build();
+        connection.start();
+
+        const username = '@username'
+
+         connection.on(username, function (message) {
+            document.getElementById('notification').innerHTML = message
+            document.getElementById('notification').hidden = false
+            setTimeout(() => {
+                document.getElementById('notification').hidden = true
+            }, 5000)
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

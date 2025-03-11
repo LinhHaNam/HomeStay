@@ -1,0 +1,44 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+/* Sử dụng font Quicksand và fallback font sans-serif cho body */
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #bcdbe0;
+    color: #171714;
+}
+
+.btn_action {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    /* Add button styles */
+    background-color: #337ab7;
+    color: white;
+    border: 1px solid #2e6da4;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+h1{
+    text-align:center;
+    margin:50px;
+}
+
+    table.table {
+        table-layout: fixed;
+        width: 100%;
+    }
+
+        table.table th,
+        table.table td {
+            word-wrap: break-word;
+        }
+.btn_action{
+    min-width:70px;
+}
