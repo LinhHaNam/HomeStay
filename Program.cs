@@ -1,6 +1,7 @@
 ﻿using System.Security.Claims;
 using HomestayWeb.Hubs;
 using HomestayWeb.Models;
+using HomestayWeb.Service;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.Google;
@@ -46,7 +47,9 @@ builder.Services.AddDbContext<ProjectHomeStayContext>(
 );
 
 builder.Services.AddSignalR();
-
+// Trong Program.cs
+builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
+builder.Services.AddScoped<IEmailService, EmailService>();
 var app = builder.Build();
 
 // Error handling

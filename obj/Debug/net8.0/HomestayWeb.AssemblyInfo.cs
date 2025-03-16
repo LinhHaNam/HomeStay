@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomestayWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4078c0410fdcfd1bbb90177634eade8bf21532e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomestayWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomestayWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
