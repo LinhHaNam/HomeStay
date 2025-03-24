@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K7IV5HlagRs=",
+  "dgSpecHash": "C1vjEPtRw+Y=",
   "success": true,
-  "projectFilePath": "D:\\Ky 7\\prn222\\code\\Project_Homestay-main\\Project_Homestay-main\\HomestayWeb\\HomestayWeb.csproj",
+  "projectFilePath": "D:\\Ky 7\\prn222\\PROJECT\\HomeStay\\HomestayWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\linhv\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\linhv\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

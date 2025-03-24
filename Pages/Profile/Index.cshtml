@@ -11,54 +11,60 @@
 <div class="row">
     <div class="col-md-3"></div>
     <div class="col-md-6">
-        <!-- Update the form section -->
-<form method="post">
-    <div asp-validation-summary="All" class="text-danger"></div>
-    <input type="hidden" asp-for="Customer.UserId" />
-    <div class="form-group">
-        <label asp-for="Customer.Fullname" class="control-label">Full Name</label>
-        <input asp-for="Customer.Fullname" class="form-control" />
-        <span asp-validation-for="Customer.Fullname" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <label asp-for="Customer.Email" class="control-label">Email</label>
-        <input asp-for="Customer.Email" type="email" class="form-control" />
-        <span asp-validation-for="Customer.Email" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <label asp-for="Customer.Username" class="control-label">Username</label>
-        <input asp-for="Customer.Username" class="form-control" readonly />
-        <span asp-validation-for="Customer.Username" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <label asp-for="Customer.Role" class="control-label">Role</label>
-        <input asp-for="Customer.Role" class="form-control" readonly />
-        <span asp-validation-for="Customer.Role" class="text-danger"></span>
-    </div>
-    <!-- Make password editable with a separate change password section -->
-    <div class="form-group">
-        <label class="control-label">New Password (leave blank to keep current)</label>
-        <input type="password" name="NewPassword" class="form-control" />
-    </div>
-    <div class="form-group">
-        <label asp-for="Customer.Gender" class="control-label">Gender</label>
-        <div class="form-check">
-            <input class="form-check-input" type="radio" asp-for="Customer.Gender" value="true" id="male">
-            <label class="form-check-label" for="male">Male</label>
-        </div>
-        <div class="form-check">
-            <input class="form-check-input" type="radio" asp-for="Customer.Gender" value="false" id="female">
-            <label class="form-check-label" for="female">Female</label>
-        </div>
-        <span asp-validation-for="Customer.Gender" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <input type="submit" value="Update" class="btn btn-primary" />
-    </div>
-</form>
+        <form method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <input type="hidden" asp-for="Customer.UserId" />
+            <div class="form-group">
+                <label asp-for="Customer.Fullname" class="control-label">Full Name</label>
+                <input asp-for="Customer.Fullname" class="form-control" />
+                <span asp-validation-for="Customer.Fullname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Customer.Email" class="control-label">Email</label>
+                <input asp-for="Customer.Email" type="email" class="form-control" />
+                <span asp-validation-for="Customer.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Customer.Username" class="control-label">Username</label>
+                <input asp-for="Customer.Username" class="form-control" readonly />
+                <span asp-validation-for="Customer.Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Customer.Role" class="control-label">Role</label>
+                <input asp-for="Customer.Role" class="form-control" readonly />
+                <span asp-validation-for="Customer.Role" class="text-danger"></span>
+            </div>
+            <!-- Password change section -->
+            <div class="form-group">
+                <label class="control-label">Current Password</label>
+                <input type="password" name="CurrentPassword" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">New Password</label>
+                <input type="password" name="NewPassword" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Confirm New Password</label>
+                <input type="password" name="ConfirmPassword" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Customer.Gender" class="control-label">Gender</label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Customer.Gender" value="true" id="male">
+                    <label class="form-check-label" for="male">Male</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Customer.Gender" value="false" id="female">
+                    <label class="form-check-label" for="female">Female</label>
+                </div>
+                <span asp-validation-for="Customer.Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Update" class="btn btn-primary" />
+            </div>
+        </form>
     </div>
 </div>
-
 
 <script>
     var message = '@Model.Message'

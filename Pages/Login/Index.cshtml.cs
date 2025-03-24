@@ -85,13 +85,21 @@ namespace HomestayWeb.Pages.Login
             }
 
             var user = _context.Users.FirstOrDefault(u => u.Email == email);
+
+            // Kiểm tra nếu tài khoản tồn tại nhưng bị vô hiệu hóa
+            if (user != null && user.Status == false)
+            {
+                return RedirectToPage("/Login/Index", new { message = "Tài khoản của bạn đã bị vô hiệu hóa!" });
+            }
+
             if (user == null)
             {
+                // Tạo tài khoản mới nếu chưa tồn tại
                 user = new User
                 {
                     Email = email,
                     Fullname = name,
-                    Username = email.Split('@')[0] + "_" + Guid.NewGuid().ToString().Substring(0, 8), // Unique username
+                    Username = email.Split('@')[0] + "_" + Guid.NewGuid().ToString().Substring(0, 8),
                     Role = "User",
                     Status = true,
                     Password = Guid.NewGuid().ToString()
@@ -103,6 +111,7 @@ namespace HomestayWeb.Pages.Login
             await SignInUser(user);
             return RedirectToPage("/Index");
         }
+
 
         private async Task SignInUser(User user)
         {

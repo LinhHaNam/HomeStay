@@ -11,6 +11,7 @@
 <video autoplay loop muted plays-inline class="back-video">
     <source src="~/Images/pexels-timo-volz-6528707 (2160p).mp4" />
 </video>
+<div id="notification" class="alert alert-danger text-center" style="display: none;"></div>
 
 <!-- Existing CSS and video background code remains same -->
 
@@ -30,9 +31,9 @@
 
             <!-- Google login button with matching width -->
             <div style="margin-top: 15px;">
-                <a class="btn btn-danger w-100" asp-page="/Login/Index" asp-page-handler="GoogleLogin">
-                    <i class="fab fa-google"></i> Đăng nhập bằng Google
-                </a>
+                 <a class="btn btn-danger w-100" asp-page="/Login/Index" asp-page-handler="GoogleLogin"> 
+                    <i class="fab fa-google"></i> Đăng nhập bằng Google 
+                 </a> 
             </div>
 
             <div style="font-size:larger">Chưa có tài khoản? <a asp-page="/Register/Index" style="color:#8f0471">Đăng ký ngay</a></div>
@@ -60,3 +61,18 @@
 
 
 
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const urlParams = new URLSearchParams(window.location.search);
+        const message = urlParams.get('message');
+        if (message) {
+            let notification = document.getElementById('notification');
+            notification.innerHTML = message;
+            notification.style.display = "block"; // Hiển thị thông báo
+
+            setTimeout(() => {
+                notification.style.display = "none"; // Ẩn sau 5s
+            }, 5000);
+        }
+    });
+</script>
